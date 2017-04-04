@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DeBijenkorfTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="products_no_brand">No Brand Name</string>
+    <string name="products_no_name">No Product Name</string>
+    <string name="products_no_price">No Price</string>
+    <string name="products_empty">No products</string>
+
+    <string name="search_btn">Search</string>
+    <string name="search_hint">Enter the product</string>
+    <string name="search_debijenkorf">de Bijenkorf</string>
+
+    <string name="dialog_images">Loading images</string>
+    <string name="dialog_data">Fetching data</string>
+</resources>
